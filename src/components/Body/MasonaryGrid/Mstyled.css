@@ -1,0 +1,61 @@
+.pt-80 {
+  padding-top: 80px;
+}
+
+.pb-80 {
+  padding-bottom: 80px;
+}
+
+.bgColor {
+  background-color: #008c45;
+}
+
+.mission-vision__single {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 80px;
+}
+
+.headerStyle {
+  font-family: "Poppins", sans-serif;
+  text-align: left;
+  font-size: 24px;
+  font-weight: 500;
+  color: #ffffff;
+  letter-spacing: 1px;
+  line-height: 32px;
+  margin: 0px 0px 40px;
+  text-transform: capitalize;
+}
+
+.paraStyle {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: light;
+  text-transform: capitalize;
+  line-height: 27px;
+  text-align: left;
+  color: #ffffff;
+}
+
+.col-md-6 {
+  position: relative;
+  width: 100%;
+ 
+}
+
+/* .mission-vision__single__right {
+  
+} */
+
+.mission-vision__single__left {
+  position: relative;
+  margin-top: 70px;
+  width: 70%;
+}
+/* .uq{
+  position: relative;
+  right: 100px;
+} */
+
